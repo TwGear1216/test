@@ -5,6 +5,7 @@ import android.graphics.Color;
 import android.util.AttributeSet;
 import android.widget.TextView;
  
+	// this is MonthItemView ! 
 public class MonthItemView extends TextView {
  
     private MonthItem item;
